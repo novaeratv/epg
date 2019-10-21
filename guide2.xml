@@ -16,21 +16,9 @@
     <display-name lang="pt">Comedy Central FHD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Comedy Central HD">
-    <display-name lang="pt">Comedy Central HD</display-name>
-    <url>http://www.tvmagazine.com.br</url>
-  </channel>
-  <channel id="Curta ! SD">
-    <display-name lang="pt">Curta ! SD</display-name>
-    <url>http://www.tvmagazine.com.br</url>
-  </channel>
   <channel id="Food Network HD">
     <display-name lang="pt">Food Network HD</display-name>
     <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="GNT HD">
-    <display-name lang="pt">GNT HD</display-name>
-    <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="Lifetime FHD">
     <display-name lang="pt">Lifetime FHD</display-name>
@@ -40,10 +28,6 @@
     <display-name lang="pt">Lifetime HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="MTV HD">
-    <display-name lang="pt">MTV HD</display-name>
-    <url>http://www.tvmagazine.com.br</url>
-  </channel>
   <channel id="Multishow FHD">
     <display-name lang="pt">Multishow FHD</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -51,10 +35,6 @@
   <channel id="Multishow HD">
     <display-name lang="pt">Multishow HD</display-name>
     <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="TruTV">
-    <display-name lang="pt">TruTV</display-name>
-    <url>http://www.tvmagazine.com.br</url>
   </channel>
   <channel id="VH1 HD">
     <display-name lang="pt">VH1 HD</display-name>
@@ -76,26 +56,6 @@
     <display-name lang="pt">Woohoo FHD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="ESPN HD">
-    <display-name lang="pt">ESPN HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvprimaveradoleste.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="ESPN 2 HD">
-    <display-name lang="pt">ESPN 2 HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvpilar.gif|http://www.lineup.tv.br/canais/cultura.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="ESPN Brasil HD">
-    <display-name lang="pt">ESPN Brasil HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/httv.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="ESPN Extra HD">
-    <display-name lang="pt">ESPN Extra HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/educadora-batatais.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
   <channel id="Band Sports FHD">
     <display-name lang="pt">Band Sports FHD</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -111,16 +71,6 @@
   <channel id="Combate HD">
     <display-name lang="pt">Combate HD</display-name>
     <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Fox Sports HD">
-    <display-name lang="pt">Fox Sports HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/globo-rj.gif|http://www.lineup.tv.br/canais/globo.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Fox Sports 2 HD">
-    <display-name lang="pt">Fox Sports 2 HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/canaldelsol.gif" />
-    <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="OFF FHD">
     <display-name lang="pt">OFF FHD</display-name>
@@ -161,6 +111,98 @@
   <channel id="TNT HD">
     <display-name lang="pt">TNT HD</display-name>
     <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX1">
+    <display-name lang="pt">FOX1</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Action">
+    <display-name lang="pt">FOX Action</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-action.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX Life</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-life.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Life HD">
+    <display-name lang="pt">FOX Life HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-life-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Sports">
+    <display-name lang="pt">FOX Sports</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports-2.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2 HD">
+    <display-name lang="pt">Fox Sports 2 HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports-2-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="pt">Fox Sports HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fx.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fx-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo">
+    <display-name lang="pt">Nat Geo</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/nat-geo.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="pt">Nat Geo HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/nat-geo-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/nat-geo-wild-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="pt">Nat Geo Wild</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/nat-geo-wild.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
   </channel>
   <programme start="20191020000000 -0300" stop="20191020010000 -0300" channel="Arte 1 SD">
     <title lang="pt">Arte 1 Documenta</title>
